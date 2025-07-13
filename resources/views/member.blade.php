@@ -1,6 +1,6 @@
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wowclub wow fadeInUp" data-wow-delay="0.1s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/deankt.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/deankt.png"/>
         <div class="team-text">
             <h4 class="mb-0">DEANKT</h4>
             <p class="text-primary">Aldean Tegar</p>
@@ -17,7 +17,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wowclub wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/adel.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/adel.png"/>
         <div class="team-text">
             <h4 class="mb-0">ADEL</h4>
             <p class="text-primary">Nastasia Adeline</p>
@@ -33,7 +33,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wow fadeInUp" data-wow-delay="0.5s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/fahmi.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/fahmi.png"/>
         <div class="team-text">
             <h4 class="mb-0">REXXY</h4>
             <p class="text-primary">Fahmi Adam A</p>
@@ -48,7 +48,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wow fadeInUp" data-wow-delay="0.1s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/alyssa.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/alyssa.png"/>
         <div class="team-text">
             <h4 class="mb-0">ALYSSA</h4>
             <p class="text-primary">Alyssa Ananta</p>
@@ -63,7 +63,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/masbob.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/masbob.png"/>
         <div class="team-text">
             <h4 class="mb-0">Bobacot</h4>
             <p class="text-primary">Andre Hendarto</p>
@@ -79,7 +79,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog sokmantep wow fadeInUp" data-wow-delay="0.5s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/bion.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/bion.png"/>
         <div class="team-text">
             <h4 class="mb-0">Bion</h4>
             <p class="text-primary">Abi Faisal</p>
@@ -94,7 +94,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wowclub wow fadeInUp" data-wow-delay="0.1s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/hamdan.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/hamdan.png"/>
         <div class="team-text">
             <h4 class="mb-0">Hamdan</h4>
             <p class="text-primary">Naufal De Hamdan W</p>
@@ -109,7 +109,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item b2fog wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/anin.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/anin.png"/>
         <div class="team-text">
             <h4 class="mb-0">Anin</h4>
             <p class="text-primary">Aninditha Cahyadi</p>
@@ -124,7 +124,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/kevin.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/kevin.png"/>
         <div class="team-text">
             <h4 class="mb-0">Xccurate</h4>
             <p class="text-primary">Kevin Susanto</p>
@@ -139,7 +139,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/cendy.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/cendy.png"/>
         <div class="team-text">
             <h4 class="mb-0">Cendy</h4>
             <p class="text-primary">Cendy Putra</p>
@@ -154,7 +154,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wowclub sokmantep wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/mada.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/mada.png"/>
         <div class="team-text">
             <h4 class="mb-0">Mada</h4>
             <p class="text-primary">Mada Rahadian</p>
@@ -169,7 +169,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wowclub wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/ade.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/ade.png"/>
         <div class="team-text">
             <h4 class="mb-0">Ade</h4>
             <p class="text-primary">Setiawan Ade</p>
@@ -184,7 +184,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/jambu.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/jambu.png"/>
         <div class="team-text">
             <h4 class="mb-0">GUAVAAA/Jambu</h4>
             <p class="text-primary">Fachrian NR</p>
@@ -199,7 +199,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/kity.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/kity.png"/>
         <div class="team-text">
             <h4 class="mb-0">Kity</h4>
             <p class="text-primary">Christy Chriselle</p>
@@ -214,7 +214,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/sisil.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/sisil.png"/>
         <div class="team-text">
             <h4 class="mb-0">Sisil</h4>
             <p class="text-primary">Priscillia SD</p>
@@ -229,7 +229,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item sokmantep wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/atir.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/atir.png"/>
         <div class="team-text">
             <h4 class="mb-0">Atirr</h4>
             <p class="text-primary">Atir AR</p>
@@ -244,7 +244,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item sokmantep wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/ara.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/ara.png"/>
         <div class="team-text">
             <h4 class="mb-0">Ara</h4>
             <p class="text-primary">Zahra Nur</p>
@@ -259,7 +259,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item sokmantep wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/boo.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/boo.png"/>
         <div class="team-text">
             <h4 class="mb-0">Boo</h4>
             <p class="text-primary">Moorin Jo</p>
@@ -274,7 +274,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item sokmantep wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/kaco.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/kaco.png"/>
         <div class="team-text">
             <h4 class="mb-0">Asterisk</h4>
             <p class="text-primary">Nanda R</p>
@@ -291,7 +291,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/pici.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/pici.png"/>
         <div class="team-text">
             <h4 class="mb-0">Pici</h4>
             <p class="text-primary">Mavelyn Jo</p>
@@ -306,7 +306,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/swan.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/swan.png"/>
         <div class="team-text">
             <h4 class="mb-0">Swan</h4>
             <p class="text-primary">Juliana Winata</p>
@@ -321,7 +321,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/budok.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/budok.png"/>
         <div class="team-text">
             <h4 class="mb-0">Budok</h4>
             <p class="text-primary">Anastasia Yasmeen</p>
@@ -336,7 +336,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/lucky.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/lucky.png"/>
         <div class="team-text">
             <h4 class="mb-0">Adonan</h4>
             <p class="text-primary">Lucky Adnan</p>
@@ -351,7 +351,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/grace.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/grace.png"/>
         <div class="team-text">
             <h4 class="mb-0">Grace</h4>
             <p class="text-primary">Martha Graciela</p>
@@ -366,7 +366,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/michelle.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/michelle.png"/>
         <div class="team-text">
             <h4 class="mb-0">Michelle</h4>
             <p class="text-primary">Michelle Christo</p>
@@ -381,7 +381,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/biyel.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/biyel.png"/>
         <div class="team-text">
             <h4 class="mb-0">Biyel</h4>
             <p class="text-primary">Gabriel Angelina</p>
@@ -396,7 +396,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/kyukyu.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/kyukyu.png"/>
         <div class="team-text">
             <h4 class="mb-0">Kyukyu</h4>
             <p class="text-primary">Denise AH</p>
@@ -411,7 +411,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/cey.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/cey.png"/>
         <div class="team-text">
             <h4 class="mb-0">Cey</h4>
             <p class="text-primary">Chelsea WN</p>
@@ -426,7 +426,7 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
-        <img class="img-fluid" src="{{ asset('assets/img/member/bubble.png') }}"/>
+        <img class="img-fluid" src="assets/img/member/bubble.png"/>
         <div class="team-text">
             <h4 class="mb-0">Bubble</h4>
             <p class="text-primary">Cindy Claudya</p>

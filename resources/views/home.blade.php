@@ -7,7 +7,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="{{ asset('assets/img/bg1.png') }}" alt="Image" />
+                    <img class="w-100" src="/assets/img/bg1.png" alt="Image" />
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row g-5 align-items-end">
                 <div class="col-lg-3 col-md-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid rounded" data-wow-delay="0.1s" src="{{ asset('assets/img/about.png') }}" />
+                    <img class="img-fluid rounded" data-wow-delay="0.1s" src="assets/img/about.png" />
                 </div>
                 <div class="col-lg-6 col-md-7 wow fadeInUp" data-wow-delay="0.3s">
                     <h1 class="display-5 mb-4">
