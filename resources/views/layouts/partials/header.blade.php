@@ -7,9 +7,9 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-            <a href="{{ url('/') }}#home" class="nav-item nav-link active">Home</a>
-            <a href="{{ url('/') }}#about" class="nav-item nav-link">About</a>
-            <a href="{{ url('/') }}#team" class="nav-item nav-link">Member</a>
+            <a href="#home" class="nav-item nav-link active">Home</a>
+            <a href="#about" class="nav-item nav-link">About</a>
+            <a href="#team" class="nav-item nav-link">Member</a>
         </div>
     </div>
 </nav>
