@@ -291,6 +291,21 @@
 
 <div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
     <div class="team-item rounded">
+        <img class="img-fluid" src="assets/img/member/mythia.png"/>
+        <div class="team-text">
+            <h4 class="mb-0">Mythi</h4>
+            <p class="text-primary">Mythia Batford</p>
+            <div class="team-social d-flex">
+                <a class="btn btn-square rounded-circle me-2" href="https://www.instagram.com/mythiavtuber/" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a class="btn btn-square rounded-circle me-2" href="https://www.tiktok.com/@mythiavtuber" target="_blank"><i class="fab fa-tiktok"></i></a>
+                <a class="btn btn-square rounded-circle me-2" href="https://www.youtube.com/@mythiabatfordch" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-4 col-md-6 portfolio-item wow fadeInUp" data-wow-delay="0.3s">
+    <div class="team-item rounded">
         <img class="img-fluid" src="assets/img/member/pici.png"/>
         <div class="team-text">
             <h4 class="mb-0">Pici</h4>
