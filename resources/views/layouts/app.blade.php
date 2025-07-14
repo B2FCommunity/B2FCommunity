@@ -48,6 +48,7 @@
     <script src="/assets/lib/isotope/isotope.pkgd.min.js"></script>
     <script src="/assets/lib/lightbox/js/lightbox.min.js"></script>
     <script src="/assets/js/main.js"></script>
+    @stack('scripts')
 </body>
 
 </html>

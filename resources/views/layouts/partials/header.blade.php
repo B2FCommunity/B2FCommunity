@@ -9,7 +9,8 @@
         <div class="navbar-nav ms-auto p-4 p-lg-0">
             <a href="#home" class="nav-item nav-link active">Home</a>
             <a href="#about" class="nav-item nav-link">About</a>
-            <a href="#team" class="nav-item nav-link">Member</a>
+            <a href="#team" class="nav-item nav-link">Profile Streamer</a>
+            <a href= "{{ route('event.index') }}" class="nav-item nav-link">Event</a>
         </div>
     </div>
 </nav>
