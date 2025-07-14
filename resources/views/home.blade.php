@@ -56,7 +56,7 @@
                         <li class="mx-2 active" data-filter="*">All</li>
                         <li class="mx-2" data-filter=".b2fog">B2F OG</li>
                         <li class="mx-2" data-filter=".wowclub">WOW Club</li>
-                        <li class="mx-2" data-filter=".sokmantep">Sok Mantep</li>
+                        <li class="mx-2" data-filter=".sokmantep">Sok Mantep Gang</li>
                     </ul>
                 </div>
             </div>
