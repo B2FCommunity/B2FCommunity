@@ -10,8 +10,8 @@
             </div>
 
             <div class="row g-4">
-                {{-- @include('event-card.2025') --}}
-                <p class="text-center text-muted">Belum ada event</p>
+                @include('event-card.2025')
+                {{-- <p class="text-center text-muted">Belum ada event</p> --}}
             </div>
         </div>
     </div>
@@ -34,11 +34,6 @@
                         <div class="col-md-6">
                             <h5>Deskripsi</h5>
                             <p id="modalDescription"></p>
-                            <hr>
-                            <small class="text-muted">
-                                Dibuat pada: <span id="modalCreatedAt"></span><br>
-                                Diperbarui pada: <span id="modalUpdatedAt"></span>
-                            </small>
                         </div>
                     </div>
                 </div>
@@ -74,9 +69,7 @@
 
                 document.getElementById('modalPoster').src = posterSrc;
                 document.getElementById('modalTitle').textContent = title;
-                document.getElementById('modalDescription').textContent = description;
-                document.getElementById('modalCreatedAt').textContent = createdAt;
-                document.getElementById('modalUpdatedAt').textContent = updatedAt;
+                document.getElementById('modalDescription').innerHTML = description.replace(/\\n/g, '<br>');
                 document.getElementById('modalLink').href = link;
 
                 eventModal.show();
