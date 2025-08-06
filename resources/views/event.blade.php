@@ -39,7 +39,7 @@
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Tutup</button>
-                    <a id="modalLink" href="#" class="btn btn-primary" target="_blank">Kunjungi Tautan</a>
+                    <a id="modalLink" href="#" class="btn btn-danger" target="_blank">Kunjungi Tautan (Close)</a>
                 </div>
             </div>
         </div>
